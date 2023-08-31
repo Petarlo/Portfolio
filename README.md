@@ -16,7 +16,7 @@ The link to access the website and a screenshot of the finished page is below...
 
 https://petarlo.github.io/Portfolio/
 
-![alt text]"(Assets/images/Portfolio%Screenshot.png)
+![alt text](Assets/images/Portfolio%Screenshot.png)
 
 ## Credits
 
