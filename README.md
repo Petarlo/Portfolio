@@ -14,10 +14,12 @@ CSS is definatley something I need to practice more. I'm not entirely satisfied 
 
 The link to access the website and a screenshot of the finished page is below...
 
-https://petarlo.github.io/Challenge1-Horiseon/
+https://petarlo.github.io/Portfolio/
 
+<<<<<<< HEAD
 ![alt text](assets/images/Portfolio%20Screenshot.png)
-![alt text](assrts/images/Portfolio%Screentshot%w-shading)
+![alt text](assrts/images/Portfolio%Screentshot%w-shading.png)
+
 
 ## Credits
 
