@@ -16,7 +16,7 @@ The link to access the website and a screenshot of the finished page is below...
 
 https://petarlo.github.io/Challenge1-Horiseon/
 
-![alt text](assets/images/screenshot.png)
+![alt text](assets/images/Portfolio%20Screenshot.png)
 
 ## Credits
 
